@@ -1,0 +1,7 @@
+{
+  "name": "session-sounds",
+  "version": "0.1.0",
+  "description": "Toca um ding quando a sessão termina o turno e um toque de telefone quando precisa da sua intervenção.",
+  "author": { "name": "SpyCopBR" },
+  "license": "MIT"
+}
